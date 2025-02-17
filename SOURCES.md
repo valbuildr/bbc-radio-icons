@@ -9,9 +9,7 @@ But if you want the wordmark, you'll have to change the `colour_default.svg` to 
 - For a white wordmark, replace it with `blocks-white_default.svg`
 - For a coloured wordmark, replace it with `blocks-colour_default.svg`
 
-Local radio gets more complicated since there are no icons on the BBC Sounds website.
-
-For most local radio networks, you can simply get the station's ID by clicking on the station name and looking at the end of the URL.
+For local radio networks, you can simply get the station's ID by clicking on the station name and looking at the end of the URL.
 
 - For BBC Radio Cambridgeshire, this is `bbc_radio_cambridge`.
 - For BBC Radio London, this is `bbc_london`.
