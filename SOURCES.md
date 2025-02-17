@@ -14,6 +14,9 @@ For local radio networks, you can simply get the station's ID by clicking on the
 - For BBC Radio Cambridgeshire, this is `bbc_radio_cambridge`.
 - For BBC Radio London, this is `bbc_london`.
 
+> [!TIP]
+> I've listed all of the network IDs in [IDS.md](./IDS.md).
+
 You can then take that ID and put it into the link using this formula: `https://sounds.files.bbci.co.uk/3.7.0/networks/{network id}/{file}`.
 
 - For BBC Radio Cambridgeshire's icon, the link would be `https://sounds.files.bbci.co.uk/3.7.0/networks/bbc_radio_cambridge/colour_default.svg`.
