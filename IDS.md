@@ -35,7 +35,7 @@
 # Local Radio
 
 > [!WARNING]
-> **Radio Solent Dorset doesnt seem to have their resources in the same place as all the other networks.** To find their resources, replace `networks` with `services`.
+> **Radio Solent Dorset doesn't seem to have its resources in the same place as all the other networks.** To find their resources, replace `networks` with `services`.
 
 - Radio Berkshire: `bbc_radio_berkshire`
 - Radio Bristol: `bbc_radio_bristol`
