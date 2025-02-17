@@ -1,5 +1,3 @@
-**This is how to find a specific file on the BBC's servers. Go to [links.txt](./links.txt) for a full list of links.**
-
 On the BBC Sounds website, you can view all BBC Radio stations. ([here](https://www.bbc.co.uk/sounds/stations))
 
 Right-clicking on one of the network icons you can find an SVG, which should have a src property of something like this: `https://sounds.files.bbci.co.uk/3.7.0/networks/bbc_sounds_news/colour_default.svg`
