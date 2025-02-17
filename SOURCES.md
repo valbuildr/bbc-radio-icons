@@ -23,4 +23,5 @@ You can then take that ID and put it into the link using this formula: `https://
 - For BBC Radio London's coloured wordmark, the link would be `https://sounds.files.bbci.co.uk/3.7.0/networks/bbc_london/blocks-colour_default.svg`.
 - For BBC Radio Kent's coloured wordmark, the link would be `https://sounds.files.bbci.co.uk/3.7.0/networks/bbc_radio_kent/blocks-white_default.svg`.
 
-Do note that from my testing, there's one local network, Radio Solent Dorset, that doesn't work with this, and you'll have to replace `networks` with `services`.
+> [!WARNING]
+> **Radio Solent Dorset doesn't seem to have its resources in the same place as all the other networks.** To find their resources, replace `networks` with `services`.
